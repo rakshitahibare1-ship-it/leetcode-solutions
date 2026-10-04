@@ -7,7 +7,7 @@
 | 04-10-2026 | Best Time to Buy and Sell Stock | Basic Algorithms | Easy | Accepted |  |
 | 04-10-2026 | Contains Duplicate | Basic Algorithms | Easy | Accepted |  |
 | 04-10-2026 | Valid Parentheses | Stacks | Easy | Accepted |  |
-|  | Min Stack | Stacks | Medium | Pending |  |
+| 04-10-2026 | Min Stack | Stacks | Medium | Accepted |  |
 |  | Reverse Linked List | Linked Lists | Easy | Pending |  |
 |  | Merge Two Sorted Lists | Linked Lists | Easy | Pending |  |
 
