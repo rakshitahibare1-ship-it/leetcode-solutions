@@ -8,7 +8,7 @@
 | 04-10-2026 | Contains Duplicate | Basic Algorithms | Easy | Accepted |  |
 | 04-10-2026 | Valid Parentheses | Stacks | Easy | Accepted |  |
 | 04-10-2026 | Min Stack | Stacks | Medium | Accepted |  |
-|  | Reverse Linked List | Linked Lists | Easy | Pending |  |
+| 04-10-2026 | Reverse Linked List | Linked Lists | Easy | Accepted | |
 |  | Merge Two Sorted Lists | Linked Lists | Easy | Pending |  |
 
 ## Notes
