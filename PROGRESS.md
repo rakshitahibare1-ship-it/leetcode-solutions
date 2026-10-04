@@ -5,7 +5,7 @@
 | 04-10-2026 | Two Sum | Arrays & Strings | Easy | Accepted |  |
 | 04-10-2026 | Valid Palindrome | Arrays & Strings | Easy | Accepted |  |
 | 04-10-2026 | Best Time to Buy and Sell Stock | Basic Algorithms | Easy | Accepted |  |
-|  | Contains Duplicate | Basic Algorithms | Easy | Pending |  |
+| 04-10-2026 | Contains Duplicate | Basic Algorithms | Easy | Accepted |  |
 |  | Valid Parentheses | Stacks | Easy | Pending |  |
 |  | Min Stack | Stacks | Medium | Pending |  |
 |  | Reverse Linked List | Linked Lists | Easy | Pending |  |
