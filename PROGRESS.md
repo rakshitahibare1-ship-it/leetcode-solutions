@@ -3,7 +3,7 @@
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
 | 04-10-2026 | Two Sum | Arrays & Strings | Easy | Accepted |  |
-|  | Valid Palindrome | Arrays & Strings | Easy | Pending |  |
+| 04-10-2026 | Valid Palindrome | Arrays & Strings | Easy | Accepted |  |
 |  | Best Time to Buy and Sell Stock | Basic Algorithms | Easy | Pending |  |
 |  | Contains Duplicate | Basic Algorithms | Easy | Pending |  |
 |  | Valid Parentheses | Stacks | Easy | Pending |  |
